@@ -115,3 +115,12 @@ margin-bottom: 16px;
 .gallery p {
     font-weight: bold;
 }
+
+.history{
+    background-color: #111111;
+    color:#ebebeb
+}
+
+.history a{
+    color:#f13239
+}
